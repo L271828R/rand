@@ -2,8 +2,7 @@
 # rand.py a /dev/random clone
 
 This is an attempt to create a random number generator.
-It creates a sha256 utf-8 with bytes in the whole range
-from 0 to 255 in hexadecimal digits.
+It creates a sha256 utf-8 in hexadecimal digits.
 
 ## getting started
 
