@@ -7,8 +7,7 @@ found on linux systems. It creates a sha256 utf-8 in hexadecimal digits.
 ## getting started
 
 To install, kindly use a linux system and in the case of Ubuntu Linix
-you can use the package installer like the below to install Python3.x
-and the needed libraries.
+you can use the package installer like the below to install Python3.
 
 apt-get install python3.7
 
