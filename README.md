@@ -29,19 +29,6 @@ pip install scipy
 
 pip install pytest
 
-### requirements:
-
-Python3
-
-numpy
-
-pandas
-
-scipy
-
-pytest
-
-
 ### running rand.py
 
 python rand.py
