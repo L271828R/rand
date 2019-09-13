@@ -1,8 +1,8 @@
 
 # rand.py a /dev/random clone
 
-This is an attempt to create a random number generator.
-It creates a sha256 utf-8 in hexadecimal digits.
+This is an attempt to create a pseudorandom number generator, similar to that
+found on linux systems. It creates a sha256 utf-8 in hexadecimal digits.
 
 ## getting started
 
@@ -33,6 +33,8 @@ pytest
 
 python rand.py
 
+
+![example](https://i.imgur.com/bcJrRg5.png)
 
 ### running tests
 pytest rand_tests.py
