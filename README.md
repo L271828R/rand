@@ -6,7 +6,20 @@ found on linux systems. It creates a sha256 utf-8 in hexadecimal digits.
 
 ## getting started
 
+To install, kindly use a linux system and in the case of Ubuntu Linix
+you can use the package installer like the below to install Python3.x
+and the needed libraries.
+
 apt-get install python3.7
+
+## installing dependencies
+
+You can install the libraries needed by typing:
+
+pip install requirements.txt
+
+Or by installing the needed libraries individually:
+
 
 pip install numpy
 
