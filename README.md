@@ -8,17 +8,25 @@ from 0 to 255 in hexadecimal digits.
 ## getting started
 
 apt-get install python3.7
+
 pip install numpy
+
 pip install pandas
+
 pip install scipy
+
 pip install pytest
 
 ### requirements:
 
 Python3
+
 numpy
+
 pandas
+
 scipy
+
 pytest
 
 
